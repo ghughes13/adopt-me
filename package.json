@@ -33,8 +33,10 @@
   },
   "dependencies": {
     "@frontendmasters/pet": "^1.0.3",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "@reach/router": "^1.2.1",
+    "reach-router": "0.0.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
   },
   "browserslist": [
     "last 2 Chrome versions",
@@ -46,5 +48,5 @@
     "last 2 Edge versions",
     "last 2 Opera versions",
     "last 2 OperaMobile versions"
-    ]
+  ]
 }
